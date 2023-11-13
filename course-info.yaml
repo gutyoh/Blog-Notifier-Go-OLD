@@ -1,5 +1,5 @@
 type: hyperskill
-title: Blog-Notifier-(Go)
+title: Blog-Notifier-Go
 language: English
 summary: |-
   This is an introductory Python course.
@@ -10,4 +10,4 @@ summary: |-
 programming_language: Python
 environment: unittest
 content:
-  - Blog-Notifier-(Go)
+  - Blog-Notifier-Go
